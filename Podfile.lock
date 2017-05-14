@@ -1,0 +1,18 @@
+PODS:
+  - Plaid (1.0.4)
+  - plaid-ios-sdk (0.3.6)
+  - SideMenu (2.3.2)
+
+DEPENDENCIES:
+  - Plaid
+  - plaid-ios-sdk
+  - SideMenu
+
+SPEC CHECKSUMS:
+  Plaid: 5baf9ca5f7728386d13a2f499f18e76ac1cfb290
+  plaid-ios-sdk: e9865b0fe6a79b3d30d886171d7a26f7e1408935
+  SideMenu: 3fa07dd05d4bade2b6f9889fb1877e312e1ba319
+
+PODFILE CHECKSUM: fe53ccf572929dd272c7d2264cdc703c42aa4e9f
+
+COCOAPODS: 1.2.1
